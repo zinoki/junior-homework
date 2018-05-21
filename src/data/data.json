@@ -1,0 +1,1065 @@
+{
+	"sys": {
+		"id": "tmk-video-33a784ac39ee4efebbb0277c30794993",
+		"revision": 36,
+		"type": "Entry",
+		"locale": "en",
+		"contentType": {
+			"sys": {
+				"id": "video",
+				"type": "Link",
+				"linkType": "ContentType"
+			}
+		},
+		"createdAt": "2018-05-08T19:46:41.542Z",
+		"updatedAt": "2018-05-18T23:26:00.996Z",
+		"space": {
+			"sys": {
+				"id": "pxqrocxwsjcc",
+				"type": "Link",
+				"linkType": "Space"
+			}
+		}
+	},
+	"fields": {
+		"title": "Chocolate Peanut Butter Swirl Cookie Pie",
+		"feedTitle": "Chocolate Peanut Butter Swirl Cookie Pie",
+		"slug": "chocolate-peanut-butter-swirl-cookie-pie",
+		"publishDate": "2018-05-18T23:26:00.853Z",
+		"description": "Eye on the pies - we're hypnotized.",
+		"recipeJSON": [{
+			"name": "Chocolate Peanut Butter Swirl Cookie Pie",
+			"steps": ["For the cookie crust:  In a stand mixer, beat the butter and sugar until fluffy. Add the salt and eggs one at a time. Add the vanilla and almond extracts. Slowly incorporate the flour until the dough is even. Remove half of the dough and set aside. Mix the cocoa powder into the remaining dough and set aside.", "Wrap the chocolate dough and the vanilla almond dough separately in plastic wrap and refrigerate for about 30 minutes.", "Roll out the two chilled doughs and trim them to be the exact same size. Gently spread the peanut butter over the vanilla almond dough and then top with the sheet of chocolate dough. Carefully roll the two doughs together, sandwiching the peanut butter between the layers and taking care to avoid any gaps in the dough. Wrap the rolled cookie dough log in plastic wrap and refrigerate for about an hour.", "Line a 9-inch pie tin with parchment paper, and trace a 9-inch circle onto a sheet of parchment paper. Place on a cookie sheet.", "Once well chilled, gently slice the chilled log into 1/4-inch slices. Place the cookies into the prepared pie tin and press gently. Overlap the cookies slightly to ensure that a crust is created without holes. Cover the 9-inch round circle with cookie slices as well. Place the crusts in the refrigerator. Preheat the oven to 350 degrees.", "Bake the cookie crusts for about 15 to 18 minutes. Remove from the oven and allow to cool completely.", "For the filling:  Whip the cream to stiff peaks and set aside. Mix all other ingredients in a medium bowl until well incorporated. Fold in the whipped cream. Fill the cookie pie crust with peanut butter pie filling and top with the circle crust. Place in the refrigerator for about 4 hours. Cut and serve chilled."],
+			"cookTime": "",
+			"servings": "10-12",
+			"passed_qa": false,
+			"totalTime": "300",
+			"activeTime": "55",
+			"ingredients": ["For the cookie crust:", "1 1/2 sticks butter, softened", "1 3/4 cups sugar", "1/2 teaspoon salt", "2 large eggs", "2 teaspoons vanilla extract", "1 teaspoon almond extract", "5 cups flour", "1/4 cup cocoa powder", "1/3 cup peanut butter", "For the pie filling:", "1 cup heavy cream", "1 1/2 cups smooth peanut butter", "8 ounces cream cheese, softened", "1/2 cup sugar", "1/4 cup brown sugar", "1 teaspoon vanilla extract", "1/2 teaspoon salt"],
+			"rejection_reason": ""
+		}],
+		"landscapeThumbnail": {
+			"sys": {
+				"id": "tmk-asset-ab49169682da49f78203d958f536c2b9",
+				"revision": 2,
+				"type": "Asset",
+				"locale": "en",
+				"createdAt": "2018-05-10T00:36:34.756Z",
+				"updatedAt": "2018-05-10T00:36:36.823Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "1701_SwirlCookiePie_Land1.jpg",
+				"file": {
+					"url": "//truffle-assets.imgix.net/87d62f55-1701_swirlcookiepie_land1.jpg",
+					"details": {
+						"size": 445414,
+						"image": {
+							"width": 1920,
+							"height": 1080
+						}
+					},
+					"fileName": "87d62f55-1701_swirlcookiepie_land1.jpg",
+					"contentType": "image/jpeg"
+				},
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"isBranded": false,
+		"relatedProducts": [{
+			"fields": {
+				"slug": "eat-your-coffee-peanut-butter-mocha",
+				"publishDate": "2018-02-15T17:07:53.000Z",
+				"name": "Eat Your Coffee Bars - Peanut Butter Mocha",
+				"shopifyProductId": "507939553328",
+				"shopifyProduct": {
+					"id": "507939553328",
+					"tags": "bar, coffee, eat your coffee, energy, fuel, snack, variety, workout",
+					"image": {
+						"id": 2002430263344,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/E_COM_2_82980_preview.jpeg?v=1518734023",
+						"width": 600,
+						"height": 600,
+						"position": 1,
+						"created_at": "2018-02-15T14:32:28-08:00",
+						"product_id": 507939553328,
+						"updated_at": "2018-02-15T14:33:43-08:00",
+						"variant_ids": []
+					},
+					"title": "Eat Your Coffee Bars - Peanut Butter Mocha",
+					"handle": "eat-your-coffee-peanut-butter-mocha",
+					"images": [{
+						"id": 2002430263344,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/E_COM_2_82980_preview.jpeg?v=1518734023",
+						"width": 600,
+						"height": 600,
+						"position": 1,
+						"created_at": "2018-02-15T14:32:28-08:00",
+						"product_id": 507939553328,
+						"updated_at": "2018-02-15T14:33:43-08:00",
+						"variant_ids": []
+					}, {
+						"id": 2002433441840,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/E_COM_2_82968_preview.jpeg?v=1518734048",
+						"width": 600,
+						"height": 600,
+						"position": 2,
+						"created_at": "2018-02-15T14:33:19-08:00",
+						"product_id": 507939553328,
+						"updated_at": "2018-02-15T14:34:08-08:00",
+						"variant_ids": []
+					}],
+					"vendor": "Eat Your Coffee",
+					"options": [{
+						"id": 780067799088,
+						"name": "Title",
+						"values": ["Default Title"],
+						"position": 1,
+						"product_id": 507939553328
+					}],
+					"variants": [{
+						"id": 6872793514032,
+						"sku": "EATYOURCOFFEE-PEANUTBUTTER",
+						"grams": 454,
+						"price": "35.00",
+						"title": "Default Title",
+						"weight": 1,
+						"barcode": "",
+						"option1": "Default Title",
+						"option2": null,
+						"option3": null,
+						"taxable": false,
+						"image_id": null,
+						"position": 1,
+						"tax_code": "",
+						"created_at": "2018-02-08T20:41:48-08:00",
+						"product_id": 507939553328,
+						"updated_at": "2018-05-19T16:08:34-07:00",
+						"weight_unit": "lb",
+						"compare_at_price": null,
+						"inventory_policy": "deny",
+						"inventory_item_id": 6862047805488,
+						"requires_shipping": true,
+						"inventory_quantity": 12,
+						"fulfillment_service": "eat-your-coffee",
+						"inventory_management": "shopify",
+						"old_inventory_quantity": 12
+					}],
+					"body_html": "<p>Snack bars, caffeinated with real coffee.</p>\n<p>Originally founded by coffee-deprived college students in search of a quick and easy way to get energized, Eat Your Coffee is now on a mission to serve up the best cup of joe in a naturally-caffeinated snack made with real, ethically-sourced ingredients. </p>\n<p>Every Eat Your Coffee bar is caffeinated with 1 full cup of Fair Trade coffee and made with real foods so you can feel good with every energizing bite.</p>\n<p> </p>\n<div class=\"rte-setting\"></div>",
+					"created_at": "2018-02-08T20:41:48-08:00",
+					"updated_at": "2018-05-19T16:08:34-07:00",
+					"product_type": "COOK",
+					"published_at": "2018-02-15T09:07:53-08:00",
+					"published_scope": "global",
+					"template_suffix": "refresh"
+				},
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		}, {
+			"fields": {
+				"slug": "robin-egg-cake-stand",
+				"publishDate": "2018-01-26T21:24:30.000Z",
+				"name": "Cake Stand - Blue",
+				"shopifyProductId": "115020038149",
+				"shopifyProduct": {
+					"id": "115020038149",
+					"tags": "artisan, baking, blue, cake, cake stand, cook, cooking, gift, handmade, kitchen, mosser, mosser glass, robin egg, tool",
+					"image": {
+						"id": 2042497728560,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/E_COM_2_82773_preview.jpeg?v=1519268743",
+						"width": 600,
+						"height": 600,
+						"position": 1,
+						"created_at": "2018-02-21T19:04:13-08:00",
+						"product_id": 115020038149,
+						"updated_at": "2018-02-21T19:05:43-08:00",
+						"variant_ids": []
+					},
+					"title": "Cake Stand - Blue",
+					"handle": "robin-egg-cake-stand",
+					"images": [{
+						"id": 2042497728560,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/E_COM_2_82773_preview.jpeg?v=1519268743",
+						"width": 600,
+						"height": 600,
+						"position": 1,
+						"created_at": "2018-02-21T19:04:13-08:00",
+						"product_id": 115020038149,
+						"updated_at": "2018-02-21T19:05:43-08:00",
+						"variant_ids": []
+					}, {
+						"id": 2042497761328,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/E_COM_2_82774_preview_2.jpeg?v=1519268743",
+						"width": 600,
+						"height": 600,
+						"position": 2,
+						"created_at": "2018-02-21T19:04:14-08:00",
+						"product_id": 115020038149,
+						"updated_at": "2018-02-21T19:05:43-08:00",
+						"variant_ids": [1186480291845]
+					}, {
+						"id": 2042498383920,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/E_COM_2_82775_preview_2.jpeg?v=1519268743",
+						"width": 600,
+						"height": 600,
+						"position": 3,
+						"created_at": "2018-02-21T19:04:25-08:00",
+						"product_id": 115020038149,
+						"updated_at": "2018-02-21T19:05:43-08:00",
+						"variant_ids": [1186480259077]
+					}],
+					"vendor": "Mosser Glass",
+					"options": [{
+						"id": 236436324357,
+						"name": "Size",
+						"values": ["6-in", "9-in"],
+						"position": 1,
+						"product_id": 115020038149
+					}],
+					"variants": [{
+						"id": 1186480259077,
+						"sku": "MOSSERGLASS-CAKESTAND-ROBIN-6",
+						"grams": 907,
+						"price": "33.00",
+						"title": "6-in",
+						"weight": 2,
+						"barcode": "",
+						"option1": "6-in",
+						"option2": null,
+						"option3": null,
+						"taxable": true,
+						"image_id": 2042498383920,
+						"position": 1,
+						"tax_code": "",
+						"created_at": "2018-01-04T18:00:31-08:00",
+						"product_id": 115020038149,
+						"updated_at": "2018-05-16T10:23:27-07:00",
+						"weight_unit": "lb",
+						"compare_at_price": null,
+						"inventory_policy": "deny",
+						"inventory_item_id": 1191186530309,
+						"requires_shipping": true,
+						"inventory_quantity": 2,
+						"fulfillment_service": "mosser-glass-6796",
+						"inventory_management": "shopify",
+						"old_inventory_quantity": 2
+					}, {
+						"id": 1186480291845,
+						"sku": "MOSSERGLASS-CAKESTAND-ROBIN-9",
+						"grams": 907,
+						"price": "46.00",
+						"title": "9-in",
+						"weight": 2,
+						"barcode": "",
+						"option1": "9-in",
+						"option2": null,
+						"option3": null,
+						"taxable": true,
+						"image_id": 2042497761328,
+						"position": 2,
+						"tax_code": "",
+						"created_at": "2018-01-04T18:00:31-08:00",
+						"product_id": 115020038149,
+						"updated_at": "2018-05-16T10:23:33-07:00",
+						"weight_unit": "lb",
+						"compare_at_price": null,
+						"inventory_policy": "deny",
+						"inventory_item_id": 1191186563077,
+						"requires_shipping": true,
+						"inventory_quantity": 5,
+						"fulfillment_service": "mosser-glass-6796",
+						"inventory_management": "shopify",
+						"old_inventory_quantity": 5
+					}],
+					"body_html": "<p><span style=\"font-weight: 400;\">Mosser Glass has a long history of glass-making, based in Cambridge, Ohio. It began when Thomas Mosser took over as the plant manager of the Cambridge Glass Company and, for over three decades now, Mosser Glass remains a family-run home and kitchen decor business. His wife Georgianna designs the antique-inspired pieces, his son Tim is now the plant manager, and his daughters Sally and Mindy oversee the office operation. From day one, Tom Mosser was committed to manufacturing quality glassware, and his dedication continues. With a product line that blends new designs and timeless classics, Mosser Glass is committed to bringing beauty and fine craftsmanship into your kitchen and home. </span><span style=\"font-weight: 400;\"><br></span></p>",
+					"created_at": "2018-01-04T18:00:31-08:00",
+					"updated_at": "2018-05-16T10:23:33-07:00",
+					"product_type": "SERVE",
+					"published_at": "2018-01-26T13:24:30-08:00",
+					"published_scope": "global",
+					"template_suffix": "refresh"
+				},
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		}, {
+			"fields": {
+				"slug": "cookie-hat",
+				"publishDate": "2018-04-17T17:32:25.000Z",
+				"name": "Cookie Hat",
+				"shopifyProductId": "645095751728",
+				"shopifyProduct": {
+					"id": "645095751728",
+					"tags": "best friends, cook, cookie hat, cookies, cooking, friends, gift, graduation, hat, kitchen, tool",
+					"image": {
+						"id": 2262269853744,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/mockup-5c6bdae9.jpg?v=1523569427",
+						"width": 1000,
+						"height": 1000,
+						"position": 1,
+						"created_at": "2018-04-12T14:43:47-07:00",
+						"product_id": 645095751728,
+						"updated_at": "2018-04-12T14:43:47-07:00",
+						"variant_ids": [7414954623024]
+					},
+					"title": "Cookie Hat",
+					"handle": "cookie-hat",
+					"images": [{
+						"id": 2262269853744,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/mockup-5c6bdae9.jpg?v=1523569427",
+						"width": 1000,
+						"height": 1000,
+						"position": 1,
+						"created_at": "2018-04-12T14:43:47-07:00",
+						"product_id": 645095751728,
+						"updated_at": "2018-04-12T14:43:47-07:00",
+						"variant_ids": [7414954623024]
+					}, {
+						"id": 2262270050352,
+						"alt": null,
+						"src": "https://cdn.shopify.com/s/files/1/0289/5817/products/mockup-2969fcac.jpg?v=1523569429",
+						"width": 1000,
+						"height": 1000,
+						"position": 2,
+						"created_at": "2018-04-12T14:43:49-07:00",
+						"product_id": 645095751728,
+						"updated_at": "2018-04-12T14:43:49-07:00",
+						"variant_ids": []
+					}],
+					"vendor": "Tastemade",
+					"options": [{
+						"id": 977631051824,
+						"name": "Title",
+						"values": ["Default Title"],
+						"position": 1,
+						"product_id": 645095751728
+					}],
+					"variants": [{
+						"id": 7414954623024,
+						"sku": "PRINTFUL-COOKIE-HAT",
+						"grams": 94,
+						"price": "30.00",
+						"title": "Default Title",
+						"weight": 3.3,
+						"barcode": "",
+						"option1": "Default Title",
+						"option2": null,
+						"option3": null,
+						"taxable": true,
+						"image_id": 2262269853744,
+						"position": 1,
+						"tax_code": "",
+						"created_at": "2018-04-12T14:43:46-07:00",
+						"product_id": 645095751728,
+						"updated_at": "2018-05-07T11:09:21-07:00",
+						"weight_unit": "oz",
+						"compare_at_price": null,
+						"inventory_policy": "deny",
+						"inventory_item_id": 7411444809776,
+						"requires_shipping": true,
+						"inventory_quantity": 100,
+						"fulfillment_service": "printful",
+						"inventory_management": "shopify",
+						"old_inventory_quantity": 100
+					}],
+					"body_html": "Dad hats aren't just for dads. This one's got a low profile with an adjustable strap and curved visor.<br><br>",
+					"created_at": "2018-04-12T14:43:45-07:00",
+					"updated_at": "2018-05-16T14:48:39-07:00",
+					"product_type": "LIFESTYLE",
+					"published_at": "2018-04-17T10:32:25-07:00",
+					"published_scope": "global",
+					"template_suffix": "refresh"
+				},
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		}],
+		"linearReady": false,
+		"isLinear": false,
+		"landscapeAsset": {
+			"sys": {
+				"id": "tmk-video_asset-3c9f1bef40f44411b8e4a596726b36fb",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:47:16.737Z",
+				"updatedAt": "2018-05-08T21:11:45.506Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_l_en-US_v01.mp4",
+				"duration": 79538,
+				"orientation": "landscape",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/mp4/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-360-730-mp4.mp4",
+					"width": 640,
+					"height": 360
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/mp4/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-432-1100-mp4.mp4",
+					"width": 768,
+					"height": 432
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/mp4/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-540-2000-mp4.mp4",
+					"width": 960,
+					"height": 540
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/mp4/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-720-3000-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/mp4/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-720-4500-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/mp4/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-1080-6000-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/mp4/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-1080-7800-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/4234b3f3-ho_1701_swirl-cookie-pie_l_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"landscapeAssetClean": {
+			"sys": {
+				"id": "tmk-video_asset-5b06cb428928420795c85ddb564059b7",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:47:21.052Z",
+				"updatedAt": "2018-05-08T20:48:57.069Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_lc_en-US_v01.mp4",
+				"duration": 79538,
+				"orientation": "landscape",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/mp4/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-360-730-mp4.mp4",
+					"width": 640,
+					"height": 360
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/mp4/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-432-1100-mp4.mp4",
+					"width": 768,
+					"height": 432
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/mp4/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-540-2000-mp4.mp4",
+					"width": 960,
+					"height": 540
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/mp4/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-720-3000-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/mp4/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-720-4500-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/mp4/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-1080-6000-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/mp4/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-1080-7800-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/a5f92e76-ho_1701_swirl-cookie-pie_lc_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"portraitThumbnail": {
+			"sys": {
+				"id": "tmk-asset-924e8c04dace41f0a2a8fd7be7c198da",
+				"revision": 2,
+				"type": "Asset",
+				"locale": "en",
+				"createdAt": "2018-05-10T00:36:39.059Z",
+				"updatedAt": "2018-05-10T00:36:41.359Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "1701_SwirlCookiePie_Port1.jpg",
+				"file": {
+					"url": "//truffle-assets.imgix.net/b1f3e8eb-1701_swirlcookiepie_port1.jpg",
+					"details": {
+						"size": 466967,
+						"image": {
+							"width": 1080,
+							"height": 1920
+						}
+					},
+					"fileName": "b1f3e8eb-1701_swirlcookiepie_port1.jpg",
+					"contentType": "image/jpeg"
+				},
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"portraitAsset": {
+			"sys": {
+				"id": "tmk-video_asset-3deadf9dd3a748ce84d0e69f96bd84e1",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:47:34.663Z",
+				"updatedAt": "2018-05-08T20:59:38.008Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_p_en-US_v01.mp4",
+				"duration": 79538,
+				"orientation": "portrait",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/mp4/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-640-730-mp4.mp4",
+					"width": 360,
+					"height": 640
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/mp4/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-768-1100-mp4.mp4",
+					"width": 432,
+					"height": 768
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/mp4/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-960-2000-mp4.mp4",
+					"width": 540,
+					"height": 960
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/mp4/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-1280-3000-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/mp4/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-1280-4500-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/mp4/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-1920-6000-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/mp4/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-1920-7800-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/952a66ac-ho_1701_swirl-cookie-pie_p_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"portraitAssetClean": {
+			"sys": {
+				"id": "tmk-video_asset-8cb1272667954341800ccf9f0f08502a",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:47:52.895Z",
+				"updatedAt": "2018-05-08T20:41:17.784Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_pc_en-US_v01.mp4",
+				"duration": 79538,
+				"orientation": "portrait",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/mp4/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-640-730-mp4.mp4",
+					"width": 360,
+					"height": 640
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/mp4/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-768-1100-mp4.mp4",
+					"width": 432,
+					"height": 768
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/mp4/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-960-2000-mp4.mp4",
+					"width": 540,
+					"height": 960
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/mp4/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-1280-3000-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/mp4/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-1280-4500-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/mp4/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-1920-6000-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/mp4/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-1920-7800-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/bce51c96-ho_1701_swirl-cookie-pie_pc_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"portraitTopSnap": {
+			"sys": {
+				"id": "tmk-video_asset-7ef13182e7104f1687ef2867d2dbc1f8",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:51:03.051Z",
+				"updatedAt": "2018-05-08T20:10:09.203Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_ts_en-US_v01.mp4",
+				"duration": 10010,
+				"orientation": "portrait",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/mp4/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-640-730-mp4.mp4",
+					"width": 360,
+					"height": 640
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/mp4/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-768-1100-mp4.mp4",
+					"width": 432,
+					"height": 768
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/mp4/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-960-2000-mp4.mp4",
+					"width": 540,
+					"height": 960
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/mp4/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-1280-3000-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/mp4/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-1280-4500-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/mp4/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-1920-6000-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/mp4/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-1920-7800-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/8fded058-ho_1701_swirl-cookie-pie_ts_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"squareThumbnail": {
+			"sys": {
+				"id": "tmk-asset-4550570957eb43c9bf5ecdf0258170e2",
+				"revision": 2,
+				"type": "Asset",
+				"locale": "en",
+				"createdAt": "2018-05-10T00:36:43.660Z",
+				"updatedAt": "2018-05-10T00:36:45.613Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "1701_SwirlCookiePie_Square1.jpg",
+				"file": {
+					"url": "//truffle-assets.imgix.net/b72f68e6-1701_swirlcookiepie_square1.jpg",
+					"details": {
+						"size": 257953,
+						"image": {
+							"width": 1080,
+							"height": 1080
+						}
+					},
+					"fileName": "b72f68e6-1701_swirlcookiepie_square1.jpg",
+					"contentType": "image/jpeg"
+				},
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"squareAsset": {
+			"sys": {
+				"id": "tmk-video_asset-561e4ae958e34a3f8d983c9f4fa5bd06",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:48:10.145Z",
+				"updatedAt": "2018-05-08T20:37:22.322Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_s_en-US.mp4",
+				"duration": 79538,
+				"orientation": "square",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/09462230-ho_1701_swirl-cookie-pie_s_en-us.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/mp4/09462230-ho_1701_swirl-cookie-pie_s_en-us-360-730-mp4.mp4",
+					"width": 640,
+					"height": 360
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/mp4/09462230-ho_1701_swirl-cookie-pie_s_en-us-432-1100-mp4.mp4",
+					"width": 768,
+					"height": 432
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/mp4/09462230-ho_1701_swirl-cookie-pie_s_en-us-540-2000-mp4.mp4",
+					"width": 960,
+					"height": 540
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/mp4/09462230-ho_1701_swirl-cookie-pie_s_en-us-720-3000-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/mp4/09462230-ho_1701_swirl-cookie-pie_s_en-us-720-4500-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/mp4/09462230-ho_1701_swirl-cookie-pie_s_en-us-1080-6000-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/mp4/09462230-ho_1701_swirl-cookie-pie_s_en-us-1080-7800-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/09462230-ho_1701_swirl-cookie-pie_s_en-us/09462230-ho_1701_swirl-cookie-pie_s_en-us-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/09462230-ho_1701_swirl-cookie-pie_s_en-us/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"squareAssetClean": {
+			"sys": {
+				"id": "tmk-video_asset-6e6c012f6c6a4703b080951c26682c61",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:48:14.025Z",
+				"updatedAt": "2018-05-08T20:25:44.877Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_sc_en-US_v01.mp4",
+				"duration": 79538,
+				"orientation": "square",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/mp4/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-360-730-mp4.mp4",
+					"width": 640,
+					"height": 360
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/mp4/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-432-1100-mp4.mp4",
+					"width": 768,
+					"height": 432
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/mp4/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-540-2000-mp4.mp4",
+					"width": 960,
+					"height": 540
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/mp4/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-720-3000-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/mp4/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-720-4500-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/mp4/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-1080-6000-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/mp4/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-1080-7800-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/215812f8-ho_1701_swirl-cookie-pie_sc_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"squareAssetShort": {
+			"sys": {
+				"id": "tmk-video_asset-1162cbd4548a4a0cae0f4ddb242ef7e9",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:48:25.180Z",
+				"updatedAt": "2018-05-08T20:13:58.039Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_ss_en-US_v01.mp4",
+				"duration": 57683,
+				"orientation": "square",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/mp4/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-360-730-mp4.mp4",
+					"width": 640,
+					"height": 360
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/mp4/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-432-1100-mp4.mp4",
+					"width": 768,
+					"height": 432
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/mp4/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-540-2000-mp4.mp4",
+					"width": 960,
+					"height": 540
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/mp4/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-720-3000-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/mp4/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-720-4500-mp4.mp4",
+					"width": 1280,
+					"height": 720
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/mp4/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-1080-6000-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/mp4/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-1080-7800-mp4.mp4",
+					"width": 1920,
+					"height": 1080
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/a4f22ecb-ho_1701_swirl-cookie-pie_ss_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"tags": ["pie", "peanut butter", "baked", "sweet", "cream cheese", "cookie", "dessert"],
+		"portraitBottomSnapTitled": {
+			"sys": {
+				"id": "tmk-video_asset-34973191673f457293be69229b1a7e90",
+				"revision": 4,
+				"type": "Entry",
+				"locale": "en",
+				"contentType": {
+					"sys": {
+						"id": "videoAsset",
+						"type": "Link",
+						"linkType": "ContentType"
+					}
+				},
+				"createdAt": "2018-05-08T19:50:55.787Z",
+				"updatedAt": "2018-05-08T20:32:12.268Z",
+				"space": {
+					"sys": {
+						"id": "pxqrocxwsjcc",
+						"type": "Link",
+						"linkType": "Space"
+					}
+				}
+			},
+			"fields": {
+				"title": "ho_1701_swirl-cookie-pie_bs_en-US_v01.mp4",
+				"duration": 82833,
+				"orientation": "portrait",
+				"awsOriginal": "https://s3.amazonaws.com/truffle-originals/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01.mp4",
+				"cellPlaylist": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/cell.m3u8",
+				"wifiPlaylist": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/wifi.m3u8",
+				"ottPlaylist": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/ott.m3u8",
+				"mp4Renditions": [{
+					"url": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/mp4/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-640-730-mp4.mp4",
+					"width": 360,
+					"height": 640
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/mp4/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-768-1100-mp4.mp4",
+					"width": 432,
+					"height": 768
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/mp4/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-960-2000-mp4.mp4",
+					"width": 540,
+					"height": 960
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/mp4/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-1280-3000-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/mp4/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-1280-4500-mp4.mp4",
+					"width": 720,
+					"height": 1280
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/mp4/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-1920-6000-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}, {
+					"url": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/mp4/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-1920-7800-mp4.mp4",
+					"width": 1080,
+					"height": 1920
+				}],
+				"webm": "https://renditions3-tastemade.akamaized.net/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01-360-730-webm.webm",
+				"stillImage": "https://s3.amazonaws.com/truffle-renditions/dd522c74-ho_1701_swirl-cookie-pie_bs_en-us_v01/thumbnails/1080p-Thumbnail.png",
+				"isLive": true,
+				"isTMTVLive": false
+			}
+		},
+		"premium": false,
+		"verticals": ["food"],
+		"availableForVod": true,
+		"isLive": true,
+		"isTMTVLive": false
+	}
+}

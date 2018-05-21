@@ -1,0 +1,50 @@
+.steps-container {
+	margin-top: 40px;
+	min-height: 300px;
+}
+
+.steps-container .col-left {
+	width: 35%;
+	display: inline-block;
+	float: left;
+	padding: 0 15px;
+}
+
+.steps-container .col-right {
+	width: 65%;
+	display: inline-block;
+	float: right;
+	padding: 0 15px;
+}
+
+.ingredients-list {
+	padding: 0;
+	list-style: none;
+}
+
+.ingredients-list li {
+	margin-bottom: 7px;
+}
+
+.ingredients-list li:last-child {
+	margin-bottom: 0;
+}
+
+.steps-list {
+	padding: 0 0 0 20px;
+	list-style: decimal;
+}
+
+.steps-list li {
+	font-size: 20px;
+	cursor: pointer;
+	position: relative;
+}
+
+.steps-list li span{
+	display: block;
+	padding: 10px;
+	font-size: 18px;
+	line-height: 24px;
+	border-radius: 5px;
+}
