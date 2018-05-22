@@ -6,7 +6,7 @@ class Header extends React.Component {
 		return (
 			<header>
 				<img alt="" src='https://www-tastemade-com.akamaized.net/dist/images/logos/tm-logo-53f031ea8a.png' />
-				<ul className="" role="menubar">
+				<ul className="navbar" role="menubar">
 					<li className="" data-current-page="false">
 						<span className="" role="menuitem" tabIndex="0">
 							Food
@@ -31,7 +31,7 @@ class Header extends React.Component {
 						<span className="" role="menuitem" tabIndex="0" aria-haspopup="true">
 							More
 						</span>
-						<ul className="" aria-label="More">
+						<ul className="dropdown" aria-label="More">
 							<li>
 								<span role="menuitem">Shows</span>
 							</li>
