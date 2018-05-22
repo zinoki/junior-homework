@@ -16,6 +16,16 @@ class VideoComponent extends Component {
 		this.setState({ playing: true });
 	}
 
+	togglePlay = () => {
+		if (this.state.playing) {
+			this.setState({ playing: false });
+			document.getElementById("myButton").className = "play";
+		} else {
+			this.setState({ playing: true });
+			document.getElementById("myButton").className = "pause";
+		}
+	}
+
 	stopVideo = () => {
 		this.setState({ playing: false });
 	}
@@ -61,7 +71,7 @@ class VideoComponent extends Component {
 				/>
 				<div className='controls-container'>
 					<div className='buttons'>
-						<button className='play'></button>
+						<button id="myButton" className='play' onClick={()=> {this.togglePlay()}}></button>
 					</div>
 					<ControlModule
 						played={this.state.played}
