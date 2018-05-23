@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import * as data from '../../data/data';
-import './relatedProducts.css';
 import RelatedProductsEntry from './Entry/relatedProductEntry';
 
 class RelatedProductsComponent extends Component {
